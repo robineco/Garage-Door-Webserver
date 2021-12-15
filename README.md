@@ -1,5 +1,6 @@
 # Garage-Door-Webserver
-Webserver on an ESP8266 that can control a remote garage door relay
+Hacking a garage door remote to control it with a website on an esp8266
+
 
 ## Captured signal from garage door remote control
 ![Signal](https://raw.githubusercontent.com/robineco/Garage-Door-Webserver/master/images/signal-a.png)
